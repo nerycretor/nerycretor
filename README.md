@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Cornélio Teixeira
-- 👀 I’m interested in Android Development, Kotlin,JetPack and JetPack Compose,I like to learn new things,
-- 🌱 I’m currently learning golang,vuejs
+- 👀 I’m interested in Web & Mobile Development,I like to learn new things,
+- 🌱 I’m currently working with Reactjs, React Native & Expo, Nodejs, Fastify
 - 💞️ I’m looking to collaborate on some project
-- 📫 How to reach me ...
+- 📫 Reach me...cornelioteixeira226@gmail.com
 
 <!---
 Cornelio/cornelio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
